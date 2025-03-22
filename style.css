@@ -1,0 +1,54 @@
+body {
+	background-color: #99582A ;
+}
+.header {
+	align-content: center;
+	padding: 100px;
+	
+}
+.name {
+	margin-left: 650px;
+	
+}
+
+.work {
+	margin-left: 400px;
+	
+}
+
+.style1 {
+	margin-left: 400px;
+	
+
+}
+
+img {
+	padding: 10px;
+	align-content: center;
+}
+
+
+
+h1 {
+	font-family: sans-serif;
+	font-size: 85px;
+	margin-left: 125px;
+	padding: 0px;
+}
+
+h2 {
+	font-family: cursive;
+	font-size: 90px;
+	color: white;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding: 0px;
+}
+h3 {
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+p {
+	align-content: center;
+}
